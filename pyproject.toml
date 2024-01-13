@@ -1,0 +1,5 @@
+[tool.codeflash]
+root = "foo_module"
+test-root = "tests"
+test-framework = "pytest"
+
