@@ -2,4 +2,4 @@
 root = "foo_module"
 test-root = "tests"
 test-framework = "pytest"
-
+[tool.poetry]
