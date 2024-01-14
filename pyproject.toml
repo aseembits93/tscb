@@ -1,5 +1,5 @@
 [tool.codeflash]
-root = "foo_module"
+root = "."
 test-root = "tests"
 test-framework = "pytest"
 
