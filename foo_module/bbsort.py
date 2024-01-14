@@ -1,5 +1,6 @@
+
 def sorter(arr):
-    for i in range(len(arr)):
+    for k in range(len(arr)):
       for j in range(len(arr) - 1):
           if arr[j] > arr[j + 1]:
               temp = arr[j]
